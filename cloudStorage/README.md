@@ -33,7 +33,7 @@
 ## Запуск приложения
 
 1. Загрузить проект на компьютер;
-2. Загрузить папку [FRONT](./netology-diplom-frontend);
+2. Загрузить папку [FRONT] (https://github.com/netology-code/jd-homeworks/tree/master/diploma/netology-diplom-frontend);
 3. Переместить папку FRONT в cloudStorage/front;
 4. Запустить терминал в корневой папке загруженного проекта;
 5. Выполнить команду docker-compose up;
